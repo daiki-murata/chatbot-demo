@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/chatbot-demo/static/css/main.36718380.chunk.css",
+    "main.js": "/chatbot-demo/static/js/main.74ce1562.chunk.js",
+    "main.js.map": "/chatbot-demo/static/js/main.74ce1562.chunk.js.map",
+    "runtime-main.js": "/chatbot-demo/static/js/runtime-main.fb3df0a7.js",
+    "runtime-main.js.map": "/chatbot-demo/static/js/runtime-main.fb3df0a7.js.map",
+    "static/js/2.c35c0402.chunk.js": "/chatbot-demo/static/js/2.c35c0402.chunk.js",
+    "static/js/2.c35c0402.chunk.js.map": "/chatbot-demo/static/js/2.c35c0402.chunk.js.map",
+    "static/js/3.26356062.chunk.js": "/chatbot-demo/static/js/3.26356062.chunk.js",
+    "static/js/3.26356062.chunk.js.map": "/chatbot-demo/static/js/3.26356062.chunk.js.map",
+    "index.html": "/chatbot-demo/index.html",
+    "static/css/main.36718380.chunk.css.map": "/chatbot-demo/static/css/main.36718380.chunk.css.map",
+    "static/js/2.c35c0402.chunk.js.LICENSE.txt": "/chatbot-demo/static/js/2.c35c0402.chunk.js.LICENSE.txt",
+    "static/media/no-profile.d6a64ff8.png": "/chatbot-demo/static/media/no-profile.d6a64ff8.png",
+    "static/media/地元の写真.329fcc60.jpg": "/chatbot-demo/static/media/地元の写真.329fcc60.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb3df0a7.js",
+    "static/js/2.c35c0402.chunk.js",
+    "static/css/main.36718380.chunk.css",
+    "static/js/main.74ce1562.chunk.js"
+  ]
+}
